@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋
+
+I'm Matthias, 24, studying IT Systems Engineering at [HPI](https://hpi.de/) and work as a fullstack developer at [Sprylab](https://sprylab.com) / [Purple](https://www.purplepublish.com/).
+
+## 💡 Interests
+
+## ⚡ Other interests
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokmeinmatz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lokmeinmatz/lokmeinmatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
